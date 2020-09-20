@@ -36,3 +36,6 @@ git config --global --lists
 
 -------------Step------------
 Add/commit/push/pull
+
+git remote add origin  https::
+git push -u origin master
