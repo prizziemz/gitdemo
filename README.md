@@ -37,5 +37,20 @@ git config --global --lists
 -------------Step------------
 Add/commit/push/pull
 
+----delete file gitignore
+git clean -dfx
+
 git remote add origin  https::
 git push -u origin master
+
+git pull origin // origin standing for remoote serve
+git pull // short form
+
+
+Related Commands
+ git add - add file to the list of files that can commit to repository
+ git commit - save the basic unit of modified records -add , delete update
+ git log - view histort andd use hash id to revert the previous code
+ git pull - dowload all modification from others
+ git push - send all modifications to server
+ git clean -df - remove untracked (but not listed .gitignore file)
