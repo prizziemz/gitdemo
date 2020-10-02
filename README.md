@@ -65,3 +65,13 @@ Related Commands
  git branch -d [branch-name]  //Delete branch
 
 -----------------------------
+
+Git Merge Branch
+
+git merge [branch]
+git merge --no--ff
+git branch
+git checkout [branch]
+git diff[hash id]
+git diff[branch]
+
