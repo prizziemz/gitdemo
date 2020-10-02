@@ -1,2 +1,3 @@
-- stock v1 
--promotion v2
+- stock v1
+- promotion v1
+test feature
