@@ -75,3 +75,11 @@ git checkout [branch]
 git diff[hash id]
 git diff[branch]
 
+Review -Tag Version
+git tag  //show all tag
+git tag v1.0 //create tag named
+git tag -d v1.0 //delete tag v1.0
+git checkout v1.0 //load file of tag v1.0
+git push origin v1.0 // push tag v1.0 to origin server
+git push -d origin v1.0 //deldete tag v1.0 in origin server
+
