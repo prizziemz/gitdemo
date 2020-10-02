@@ -1,3 +1,0 @@
-- stock v2
-- promotion v2
-test merge v2
