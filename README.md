@@ -54,3 +54,14 @@ Related Commands
  git pull - dowload all modification from others
  git push - send all modifications to server
  git clean -df - remove untracked (but not listed .gitignore file)
+
+---------------------------
+ Git Branch
+
+ git branch    //List all branches
+ git branch [branch-name]  //Create branch
+ git checkout [branch-name] //Switch branch
+ git checkout -b [branch-name] //Create and Switch branch
+ git branch -d [branch-name]  //Delete branch
+
+-----------------------------
